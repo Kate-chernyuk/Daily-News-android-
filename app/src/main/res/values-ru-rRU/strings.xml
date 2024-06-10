@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Daily News</string>
+    <string name="title_hint">Дайте название произошедшему</string>
+    <string name="title_label">Инцидент</string>
+    <string name="details_label">Детали</string>
+    <string name="isOkay_label">Всё ли хорошо?</string>
+    <string name="newIncident">Новое происшествие</string>
+    <string name="sendReport">Отослать отчёт</string>
+    <string name="incident_report"> %1$s! Этот инцидент произошёл %2$s. Всё %3$s</string>
+    <string name="okay">хорошо</string>
+    <string name="not_okay">плохо</string>
+</resources>

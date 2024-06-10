@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">Daily News</string>
+    <string name="title_hint">Enter a title for an incident</string>
+    <string name="title_label">Incident</string>
+    <string name="details_label">Details</string>
+    <string name="isOkay_label">Is everything okay?</string>
+    <string name="newIncident">New Incident</string>
+    <string name="sendReport">Send a report</string>
+    <string name="incident_report"> %1$s! This incident was discovered on %2$s. Everything is %3$s</string>
+    <string name="okay">okay</string>
+    <string name="not_okay">not okay</string>
+</resources>
